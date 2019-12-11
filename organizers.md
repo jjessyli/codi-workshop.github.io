@@ -9,7 +9,7 @@ hide_footer: true
 
 # Organizers
 
-To contact the organizers, please send an email to: [cad.chairs@gmail.com](cad.chairs@gmail.com).
+To contact the organizers, please send an email to: [cad.chairs@gmail.com](codi.chairs@gmail.com).
 
 #### Chloé Braud
 ##### Researcher at CNRS - LORIA (Nancy, France)

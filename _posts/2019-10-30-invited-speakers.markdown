@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workshop proposal accepted!"
+title:  "Invited speakers"
 date:   2019-10-25
 categories: news
 published: true

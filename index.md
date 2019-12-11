@@ -1,5 +1,5 @@
 ---
-title: CAD 2020 - EMNLP workshop
+title: CODI 2020 - EMNLP workshop
 subtitle: 1st Workshop on Computational Approaches to Discourse
 layout: page
 show_sidebar: true
@@ -24,4 +24,4 @@ The workshop will take place during EMNLP 2020, thus on **November 11 or 12, 202
 ## Contact
 
 To contact the organizers, please send an email to:
-[cad.chairs@gmail.com](cad.chairs@gmail.com)
+[codi.chairs@gmail.com](codi.chairs@gmail.com)
