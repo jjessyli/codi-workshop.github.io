@@ -33,7 +33,7 @@ Christian Hardmeier studies the use, interpretation and translation of referring
 Her interests are in computational discourse and pragmatics, as well as social implications of language use. She also develops NLP techniques under domain shift. She is a board member of SIGDIAL, and was an area co-chair for Discourse and Pragmatics at NAACL 2018.
 
 #### Annie Louis
-##### Research Scientist at Google AI (London, UK)
+##### Research Scientist at Google (London, UK)
 
 She develops computational models of documents and conversations, and uses these to aid different applications. She is particularly interested in methods which can learn from minimal annotation, and can be transferred across domains. She is currently on the advisory board of SIGDIAL, and was the program co-chair for the SIGDIAL conference in 2017. She was co-chair for the LSDSem workshops at EMNLP 2015 and EACL 2017, and also the Uphill Battles in NLP workshop at EMNLP 2016. She is also an associate editor of the Discourse and Dialogue journal.  
 
