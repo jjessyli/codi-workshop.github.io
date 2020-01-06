@@ -12,9 +12,9 @@ hide_footer: true
 To contact the organizers, please send an email to: [cad.chairs@gmail.com](codi.chairs@gmail.com).
 
 #### Chloé Braud
-##### Researcher at CNRS - LORIA (Nancy, France)
+##### Researcher at CNRS - IRIT (Toulouse, France)
 
-[chloe.braud@loria.fr](chloe.braud@loria.fr)
+[chloe.braud@irit.fr](chloe.braud@irit.fr)
 
 Her work focuses on discourse parsing, with a specific interest on weakly supervised settings, and cross-lingual and cross-domain learning. She was co-chair for the workshop WiNLP 2017, App chair for EMNLP 2017 and she’s organizing the French NLP conference JEP-TALN-RECITAL 2020.
 
