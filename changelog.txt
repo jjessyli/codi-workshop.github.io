@@ -1,3 +1,31 @@
+# 0.7
+* Added Sponsors layout
+
+# 0.6.5
+* Update bulma-block-list
+* Fix subscribe typo
+
+# 0.6.4
+* Fix pagination
+* Add RSS subscibe button to blog page
+
+# 0.6.3
+* Update Bulma to 0.8
+* Use bulma-block-list in showcase
+
+# 0.6.2
+* Added support for disqus to posts - pull request #28 from Funeoz
+
+# 0.6.1
+* Added GitHub stars, forks and watchers to showcase
+
+# 0.6
+* Added showcase page layout
+
+# 0.5.8
+* Added table of contents to pages
+* Ability to override default favicon path
+
 # 0.5.7
 * Add option to hide hero - pull request #15 from risa2000
 * Add ability to override the height of callouts - pull request #14 from agardnerIT

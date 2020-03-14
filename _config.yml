@@ -1,15 +1,25 @@
 # Site Settings
-title: CODI 2020
-tagline: 1st Workshop on Computational Approaches to Discourse
-email: codi.chairs@gmail.com
+title: Bulma Clean Theme
+tagline: Bulma Clean Theme
+email: your-email@domain.com
 description: >
-  The website for the workshop on Computational Approaches to Discourse
-baseurl: ""
-url: "https://codi-workshop.github.io"
+  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+baseurl: "/bulma-clean-theme"
+url: "https://www.csrhymes.com"
 permalink: pretty
+#favicon: /path/to/favicon.png
+gh_sponsor: chrisrhymes
 
 paginate: 5
 paginate_path: "/blog/page:num"
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: my_disqus_shortname
+  shortname: csrhymes
+
 
 plugins:
   - jekyll-sitemap
@@ -19,7 +29,7 @@ plugins:
   - kramdown
   - rouge
 
-exclude:
+exclude: 
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -60,7 +70,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  products:
+  products: 
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
