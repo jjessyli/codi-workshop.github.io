@@ -6,7 +6,6 @@ description: The website for the workshop on Computational Approaches to Discour
 baseurl: ""
 url: "https://codi-workshop.github.io"
 permalink: pretty
-favicon: "/favicon-codi.png"
 
 paginate: 5
 paginate_path: "/blog/page:num"
