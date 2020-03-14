@@ -2,8 +2,7 @@
 title: CODI 2020
 tagline: 1st Workshop on Computational Approaches to Discourse
 email: codi.chairs@gmail.com
-description: >
-  The website for the workshop on Computational Approaches to Discourse
+description: The website for the workshop on Computational Approaches to Discourse
 baseurl: ""
 url: "https://codi-workshop.github.io"
 permalink: pretty
