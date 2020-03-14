@@ -20,7 +20,6 @@ The Workshop on Computational Approaches to Discourse brings together researcher
 
 The workshop will take place during EMNLP 2020, thus on **November 11 or 12, 2020**.
 
-Submission link: https://www.softconf.com/emnlp2020/codi2020/
 
 
 ## Contact
