@@ -18,7 +18,7 @@ The Workshop on Computational Approaches to Discourse brings together researcher
 
 # Important dates
 
-The workshop will take place during EMNLP 2020, thus on **November 11 or 12, 2020**.
+The workshop will take place during EMNLP 2020, thus on **November 19, 2020**.
 
 
 
