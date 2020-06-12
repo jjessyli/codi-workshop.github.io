@@ -60,7 +60,7 @@ Extended abstracts can describe work in progress or those already published else
 
 ## Submission website
 
-All submissions must follow the EMNLP 2020 formatting instructions described here: https://2020.emnlp.org/call-for-papers 
+All submissions must follow the EMNLP 2020 formatting instructions described here: [https://2020.emnlp.org/call-for-papers](https://2020.emnlp.org/call-for-papers) 
 
 Please submit your papers at [https://www.softconf.com/emnlp2020/codi2020/](https://www.softconf.com/emnlp2020/codi2020/).
 
