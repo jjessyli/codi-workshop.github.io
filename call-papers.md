@@ -54,7 +54,7 @@ Short papers can up to 4 pages, plus unlimited pages for references.
 
 Demo submissions may describe systems, tools, visualizations, etc., and may consist of up to 4 pages, plus unlimited pages for references. 
 
-Accepted long, short, and demo papers will be presented orally or as posters. 
+Accepted long, short, and demo papers will be presented orally. 
 
 Extended abstracts can describe work in progress or those already published elsewhere. These may be two pages long (without references). Extended abstracts are non-archival. They will be presented as posters, and included in the workshop program and handbook, but will not appear in the workshop proceedings.
 
@@ -67,6 +67,8 @@ Please submit your papers at [https://www.softconf.com/emnlp2020/codi2020/](http
 ## Important dates
 
 - 10 June, 2020: Call for Workshop Papers
+- 10 July, 2020: Second Call for Papers
+- 15 July, 2020: Anonymity period starts
 - **15 Aug, 2020: Workshop Papers Due (long, short, demo, extended abstracts)**
 - 29 Sept, 2020: Notification of Acceptance
 - 10 Oct, 2020: Camera-ready papers due
