@@ -56,7 +56,7 @@ Demo submissions may describe systems, tools, visualizations, etc., and may cons
 
 Accepted long, short, and demo papers will be presented orally. 
 
-Extended abstracts can describe work in progress or those already published elsewhere. These may be two pages long (without references). Extended abstracts are non-archival. They will be presented as posters, and included in the workshop program and handbook, but will not appear in the workshop proceedings.
+Extended abstracts can describe work in progress or those already published elsewhere. These may be two pages long (without references). Extended abstracts are non-archival. They will be presented orally, and included in the workshop program and handbook, but will not appear in the workshop proceedings.
 
 ## Submission website
 
