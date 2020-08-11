@@ -9,8 +9,6 @@ hide_footer: true
 
 **Extended Submission deadline: August 23, 2020**
 
-**Important information:** The CODI workshop will be an online workshop following the EMNLP program chairs' decision to move EMNLP online. The workshop will now take place on November 19. 
-
 # Call for Papers
 
 1st Workshop on Computational Approaches to Discourse (CODI) 
@@ -18,6 +16,8 @@ hide_footer: true
 
 Held in conjunction with [EMNLP 2020](https://2020.emnlp.org/)
 November 19, 2020
+
+**Important information:** The CODI workshop will be an online workshop following the EMNLP program chairs' decision to move EMNLP online. The workshop will now take place on November 19. 
 
 ## Aims and scope
 
