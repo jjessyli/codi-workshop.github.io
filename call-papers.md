@@ -7,6 +7,10 @@ hide_hero: true
 hide_footer: true
 ---
 
+**Extended Submission deadline: August 23, 2020**
+
+**Important information:** The CODI workshop will be an online workshop following the EMNLP program chairs' decision to move EMNLP online. The workshop will now take place on November 19. 
+
 # Call for Papers
 
 1st Workshop on Computational Approaches to Discourse (CODI) 
@@ -69,7 +73,7 @@ Please submit your papers at [https://www.softconf.com/emnlp2020/codi2020/](http
 - 10 June, 2020: Call for Workshop Papers
 - 10 July, 2020: Second Call for Papers
 - 15 July, 2020: Anonymity period starts
-- **15 Aug, 2020: Workshop Papers Due (long, short, demo, extended abstracts)**
+- **~~15 Aug, 2020~~ 23 Aug, 2020: Workshop Papers Due (long, short, demo, extended abstracts)**
 - 29 Sept, 2020: Notification of Acceptance
 - 10 Oct, 2020: Camera-ready papers due
 - Nov 19, 2020: Workshop Date
