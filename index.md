@@ -24,7 +24,7 @@ The workshop will take place during EMNLP 2020, thus on **November 19, 2020**.
 - **~~15 Aug, 2020~~ 23 Aug, 2020: Workshop Papers Due (long, short, demo, extended abstracts)**
 - 29 Sept, 2020: Notification of Acceptance
 - 10 Oct, 2020: Camera-ready papers due
-- 19 Nov, 2020: Workshop Date
+- 20 Nov, 2020: Workshop Date
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
