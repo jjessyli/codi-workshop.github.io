@@ -15,7 +15,7 @@ hide_footer: true
 [https://codi-workshop.github.io/](https://codi-workshop.github.io/)
 
 Held in conjunction with [EMNLP 2020](https://2020.emnlp.org/)
-November 19, 2020
+November 20, 2020
 
 **Important information:** The CODI workshop will be an online workshop following the EMNLP program chairs' decision to move EMNLP online. The workshop will now take place on November 19. 
 
@@ -76,7 +76,7 @@ Please submit your papers at [https://www.softconf.com/emnlp2020/codi2020/](http
 - **~~15 Aug, 2020~~ 23 Aug, 2020: Workshop Papers Due (long, short, demo, extended abstracts)**
 - 29 Sept, 2020: Notification of Acceptance
 - 10 Oct, 2020: Camera-ready papers due
-- Nov 19, 2020: Workshop Date
+- Nov 20, 2020: Workshop Date
 
 All deadlines are 11.59 pm UTC -12h ("anywhere on Earth").
 
