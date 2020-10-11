@@ -62,11 +62,12 @@ Accepted long, short, and demo papers will be presented orally.
 
 Extended abstracts can describe work in progress or those already published elsewhere. These may be two pages long (without references). Extended abstracts are non-archival. They will be presented orally, and included in the workshop program and handbook, but will not appear in the workshop proceedings.
 
+**Final versions of all type of papers will be given one additional page of content.**
+
+
 ## Submission website
 
 All submissions must follow the EMNLP 2020 formatting instructions described here: [https://2020.emnlp.org/call-for-papers](https://2020.emnlp.org/call-for-papers) 
-
-**Final versions of papers will be given one additional page of content.**
 
 Please submit your papers at [https://www.softconf.com/emnlp2020/codi2020/](https://www.softconf.com/emnlp2020/codi2020/).
 
