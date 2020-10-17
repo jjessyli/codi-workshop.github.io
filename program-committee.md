@@ -9,8 +9,8 @@ hide_footer: true
 
 # Program Committee members
 
-Ekaterina	Lapshinova-Koltunski
-Philippe	Muller
+* Ekaterina	Lapshinova-Koltunski
+* Philippe	Muller
 Giuseppe	Carenini
 Vera	Demberg
 Manfred	Stede
