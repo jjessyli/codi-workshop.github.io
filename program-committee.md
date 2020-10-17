@@ -9,39 +9,38 @@ hide_footer: true
 
 # Program Committee members
 
-* Ekaterina	Lapshinova-Koltunski
-* Philippe	Muller
-* Giuseppe	Carenini
-* Vera	Demberg
-Manfred	Stede
-* Katja	Markert
-* Yang	Liu
-* Mark-Christoph	Müller
-* Vincent	Ng
-* Nianwen	Xue
-* Kentaro	Inui
-* Mark	Finlayson
-* Heike	Zinsmeister
-* Ruihong	Huang
-* Maciej	Ogrodniczuk
-* Massimo	Poesio
-* Yangfeng	Ji
-* Ana	Marasović
-* Deyi	Xiong
-* Sadao	Kurohashi
-* Anna	Nedoluzhko
-* Marta	Recasens
-* Elisa	Ferracane
-* Stefanie	Dipper
-* Hannah	Rohde
-* Jackie Chi Kit	Cheung
-* Qun	Liu
-* Don	Tuggener
-* Amir	Zeldes
-* Pascal	Denis
-* Mohit	Iyyer
-* Zhengxian	Gong
-* Sharid	Loáiciga
-* Yulia	Grishina
-* Bonnie	Webber
-* Attapol	Rutherford
+* Giuseppe Carenini, University of British Columbia, Canada
+* Jackie Chi Kit Cheung, McGill University, Canada
+* Vera Demberg, Saarland University, Germany
+* Pascal Denis, Inria Lille, France
+* Elisa Ferracane, Abridge, USA
+* Mark Finlayson, Florida International University, USA
+* Zhengxian Gong, Soochow University, China
+* Yulia Grishina, Amazon, USA
+* Ruihong Huang, Texas A&M University, USA
+* Kentaro Inui, Tohoku University, Japan
+* Mohit Iyyer, University of Massachusetts Amherst, USA
+* Yangfeng Ji, The University of Virginia, USA
+* Sadao Kurohashi, Kyoto University, USA
+* Ekaterina Lapshinova-Koltunski, Saarland University, Germany
+* Yang Liu, The University of Edinburgh, UK
+* Qun	Liu, Huawei Noah’s Ark Lab, China
+* Sharid Loaiciga, University of Potsdam, Germany
+* Ana	Marasovic, Allen Institute of AI, USA
+* Katja Markert, Heidelberg University, Germany
+* Philippe Muller, University of Toulouse, France
+* Mark-Christoph M\"{u}ller, Heidelberg Institute for Theoretical Studies, Germany
+* Anna Nedoluzhko, Charles University, Czech Republic
+* Vincent Ng, The University of Texas at Dallas, USA
+* Maciej Ogrodniczuk, Polish Academy of Sciences, Poland
+* Massimo Poesio, Queen Mary University of London, UK
+* Marta Recasens, Google, USA
+* Hannah Rohde, The University of Edinburgh, UK
+* Attapol Rutherford, Chulalongkorn University, Thailand
+* Manfred Stede, University of Potsdam, Germany
+* Don Tuggener, University of Zurich, Switzerland
+* Bonnie Webber, The University of Edinburgh, UK
+* Deyi Xiong, Tianjin University, China
+* Nianwen Xue, Brandeis University, USA
+* Amir Zeldes, Georgetown University, USA
+* Heike Zinsmeister, Hamburg University, Germany
