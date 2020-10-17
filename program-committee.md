@@ -29,7 +29,7 @@ hide_footer: true
 * Ana	Marasovic, Allen Institute of AI, USA
 * Katja Markert, Heidelberg University, Germany
 * Philippe Muller, University of Toulouse, France
-* Mark-Christoph M\"{u}ller, Heidelberg Institute for Theoretical Studies, Germany
+* Mark-Christoph Müller, Heidelberg Institute for Theoretical Studies, Germany
 * Anna Nedoluzhko, Charles University, Czech Republic
 * Vincent Ng, The University of Texas at Dallas, USA
 * Maciej Ogrodniczuk, Polish Academy of Sciences, Poland
