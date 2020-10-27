@@ -9,4 +9,6 @@ hide_footer: true
 
 # Registration instruction
 
-Tba
+To attend the workshop, please register through EMNLP website: https://2020.emnlp.org/registration
+
+There is a single registration fee that covers both the main conference and the workshops. 
