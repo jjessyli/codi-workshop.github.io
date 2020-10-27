@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deadline extension"
+title:  "Accepted papers"
 date:   2020-09-30
 categories: news
 published: true
