@@ -30,12 +30,8 @@ hide_footer: true
  	*Patrick Kahardipraja, Olena Vyshnevska and Sharid Loáiciga*
 * Extending Implicit Discourse Relation Recognition to the PDTB-3,
  	*Li Liang, Zheng Zhao and Bonnie Webber*
-* Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution,
- 	*Juntao Yu, Nafise Sadat Moosavi, Silviu Paun and Massimo Poesio*
 * How does discourse affect Spanish-Chinese Translation? A case study based on a Spanish-Chinese parallel corpus,
  	*Shuyuan Cao*
-* Multitask Learning-Based Neural Bridging Reference Resolution,
- 	*Juntao Yu and Massimo Poesio*
 * Using Type Information to Improve Entity Coreference Resolution,
  	*Sopan Khosla and Carolyn Rose*
   
@@ -61,6 +57,8 @@ hide_footer: true
 * Exploring aspects of similarity between spoken personal narratives by disentangling them into narrative clause types,
  	*Belen Saldias and Deb Roy*
 
-**Demonstrations:**
-* IntentDial: An Intent Graph based Multi-Turn Dialogue System with Reasoning Path Visualization,
- 	*Zengguang Hao, Jie Zhang, Binxia Xu, Yafang Wang, Gerard de Melo and Xiaolong Li*
+**Additional presentations:**
+* * Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution,
+ 	*Juntao Yu, Nafise Sadat Moosavi, Silviu Paun and Massimo Poesio*
+* Multitask Learning-Based Neural Bridging Reference Resolution,
+ 	*Juntao Yu and Massimo Poesio*
