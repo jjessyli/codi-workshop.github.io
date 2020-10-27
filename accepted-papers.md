@@ -58,7 +58,7 @@ hide_footer: true
  	*Belen Saldias and Deb Roy*
 
 **Additional presentations:**
-* * Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution,
+* Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution,
  	*Juntao Yu, Nafise Sadat Moosavi, Silviu Paun and Massimo Poesio*
 * Multitask Learning-Based Neural Bridging Reference Resolution,
  	*Juntao Yu and Massimo Poesio*
