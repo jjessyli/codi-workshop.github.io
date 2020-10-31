@@ -62,3 +62,13 @@ hide_footer: true
  	*Juntao Yu, Nafise Sadat Moosavi, Silviu Paun and Massimo Poesio*
 * Multitask Learning-Based Neural Bridging Reference Resolution,
  	*Juntao Yu and Massimo Poesio*
+  
+**Findings:**
+* Converting the Point of View of Messages Spoken to Virtual Assistants,	*Isabelle G. Lee*
+* A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining,	*Chenguang Zhu*
+* Dialogue Generation on Infrequent Sentence Functions via Structured Meta-Learning,	*Yifan Gao*
+* Adapting Coreference Resolution to Twitter Conversations,	*Berfin AktaÅŸ*
+* Social Commonsense Reasoning with Multi-Head Knowledge Attention,	*Debjit Paul*
+* Composed Variational Natural Language Generation for Few-shot Intents,	*Congying Xia*
+* Thinking Like a Skeptic: Defeasible Inference in Natural Language,	*Rachel Rudinger*
+* Paraphrasing vs Coreferring: Two Sides of the Same Coin,	*Yehudit Meged*
