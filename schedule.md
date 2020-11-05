@@ -10,7 +10,7 @@ hide_footer: true
 # Schedule of the workshop
 
 
-|               Session Name               |     Day    | Time Zone: UTC  PM |      |
+|               Session Name               |     Day    | Time Zone: UTC  PM       |
 |:----------------------------------------:|:----------:|:------------------:|:----:|
 |              Opening remarks             | 2020-11-20 |        1:00        | 1:10 |
 | Discussion on next year workshop and SIG | 2020-11-20 |        1:10        | 2:00 |
