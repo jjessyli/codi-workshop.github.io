@@ -10,7 +10,7 @@ hide_footer: true
 # Schedule of the workshop
 
 
-|               Session Name               |     Day    | Time Zone: UTC  PM |      |
+|               Session Name               |     Day    | Time Zone:| UTC  PM       |
 |:----------------------------------------:|:----------:|:------------------:|:----:|
 |              Opening remarks             | 2020-11-20 |        1:00        | 1:10 |
 | Discussion on next year workshop and SIG | 2020-11-20 |        1:10        | 2:00 |
@@ -25,7 +25,7 @@ hide_footer: true
 
 # Version with different time zones (TO CHECK)
 
-|               Session Name               |     Day    | Time Zone: UTC  PM |      | Time Zone: UTC+1 - Europe Paris PM |      | Time Zone: UTC -5 - US Chicago AM |       | Time Zone: UTC +8 - Asia Beijing PM |       |
+|               Session Name               |     Day    | Time Zone:         | UTC  (PM)| Time Zone: |UTC+1 - Europe Paris PM       | Time Zone: |UTC -5 - US Chicago AM        | Time Zone:| UTC +8 - Asia Beijing PM        |
 |:----------------------------------------:|:----------:|:------------------:|:----:|:----------------------------------:|:----:|:---------------------------------:|:-----:|:-----------------------------------:|:-----:|
 |              Opening remarks             | 2020-11-20 |        1:00        | 1:10 |                2:00                | 2:10 |                8:00               |  8:10 |                 9:00                |  9:10 |
 | Discussion on next year workshop and SIG | 2020-11-20 |        1:10        | 2:00 |                2:10                | 3:00 |                8:10               |  9:00 |                 9:10                | 10:00 |
