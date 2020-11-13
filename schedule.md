@@ -83,7 +83,7 @@ Links for the QA sessions will be provided by the organizers.
 |      Discussion and closing remarks      |        6:45 -       | 7:30 PM|
 
 
-## Schedule of the workshop: Time Zone UTC -5 - US Chicago AM
+## Schedule of the workshop: Time Zone UTC -6 - US Chicago AM
 
 
 |               Session Name              |               |       |
